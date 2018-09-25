@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Daily Work Summary
 
-Daily Work Summary is way to get a automated way to get a summary of work done by users.
+Daily Work Summary is a way to get automated summary of work done by users.
 
 Replies of all users who choose to respond is collected and sent as a summary at midnight. Emails are only sent based on the Holiday List selected for the group 
 
